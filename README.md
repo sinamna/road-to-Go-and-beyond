@@ -1,10 +1,10 @@
 # MyVersionOfRoadMapToBackend
 
-### introduction
+### Introduction
 This is a roadmap i would take if i wanted to start over my learning path. It includes all things i considered important and stuff ina.
 I divided it into several stages and it includes some topics more than just backend alone. Hope you enjoy. I'll try to keep it updated.
 
-### baby steps
+### Baby Steps
 
   - Data structures
     - Time complexity concept and calculation 
@@ -25,6 +25,56 @@ I divided it into several stages and it includes some topics more than just back
   - Basic knowledge of network
     - Computer Networking: A Top-Down Approach - section 2.2: The web and http
       - [Book's link](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf)
-### stage 1
+### Stage 1
+  - Golang basics
+    - [Tour of Golang](https://tour.golang.org/) official intro
+    - [Go by Examples](https://gobyexample.com/) good for refreshing
+    - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
+  - [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) first three chapters 
+  - Git 
+    - [Atlassian tutorial](https://www.atlassian.com/git/tutorials)
+    - [Interactive Git](https://learngitbranching.js.org/)
+    - [Git cheetsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+  - Linux Basics
+    - Text Processing Tools - sed,awk,tail,head,nano,trim
+    - [How To Set Up SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2)
+    - [Command Challenge](https://cmdchallenge.com/)
 
-  
+### Stage 2
+  - Golang Useful Things
+    - [go modules](https://tutorialedge.net/golang/go-modules-tutorial/)
+    - [Parsing JSON files With Golang](https://tutorialedge.net/golang/parsing-json-with-golang/)
+    - [Reading And Writing To Files in Go](https://tutorialedge.net/golang/reading-writing-files-in-go/)
+    - [Context package](https://www.practical-go-lessons.com/chap-37-context)
+    - [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
+    - [Consuming A RESTful API With Go](https://tutorialedge.net/golang/consuming-restful-api-with-go/)
+    - [Basic HTTP Server](https://www.practical-go-lessons.com/chap-26-basic-http-server)
+    - [Working With Environment Variables in Go](https://tutorialedge.net/golang/working-with-environment-variables-in-go/)
+  - Postgresql 
+    - [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4) 4 hour long
+    - [Using PostgreSQL with Go](https://www.calhoun.io/using-postgresql-with-go/) Recommended
+  - Design patterns
+    - (Go Design Patterns)[https://github.com/tmrts/go-patterns]
+  - Authentication 
+    - jwt
+      - [jwt introduction](https://jwt.io/introduction)
+      - [Securing Your Go REST APIs With JWTs](https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/)
+    
+### Stage 3 
+(cool things go brrrr)
+  - Introduction to Docker
+    - [A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
+    - [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo) Recommended
+    - [https://thenewstack.io/dockerize-go-applications/](https://thenewstack.io/dockerize-go-applications/)  
+    - [A Deep Dive Into Container Technology for Beginners](https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1/)
+  - Go concurrency design patterns
+    -  [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) 4th chapter
+    -  [Go Concurrency Pattern: Worker Pool](https://medium.com/code-chasm/go-concurrency-pattern-worker-pool-a437117025b1)
+  - Test Driven Development 
+    - [How To Write Unit Tests in Go](https://www.digitalocean.com/community/tutorials/how-to-write-unit-tests-in-go-using-go-test-and-the-testing-package)
+    - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+  - Bash Scripting
+    - [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+    - [Bash scripting cheatsheet](https://devhints.io/bash)
+
+### Stage 4
