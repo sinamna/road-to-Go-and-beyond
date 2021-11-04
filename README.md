@@ -4,7 +4,7 @@
 This is a roadmap i would take if i wanted to start over my learning path. It includes all things i considered important and stuff ina.
 I divided it into several stages and it includes some topics more than just backend alone. Hope you enjoy. I'll try to keep it updated.
 
-### Baby Steps
+## Baby Steps
 
   - Data structures
     - Time complexity concept and calculation 
@@ -25,7 +25,8 @@ I divided it into several stages and it includes some topics more than just back
   - Basic knowledge of network
     - Computer Networking: A Top-Down Approach - section 2.2: The web and http
       - [Book's link](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf)
-### Stage 1
+    - [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
+## Stage 1
   - Golang basics
     - [Tour of Golang](https://tour.golang.org/) official intro
     - [Go by Examples](https://gobyexample.com/) good for refreshing
@@ -41,7 +42,7 @@ I divided it into several stages and it includes some topics more than just back
     - [How To Set Up SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2)
     - [Command Challenge](https://cmdchallenge.com/)
 
-### Stage 2
+## Stage 2
   - Golang Useful Things
     - [go modules](https://tutorialedge.net/golang/go-modules-tutorial/)
     - [Parsing JSON files With Golang](https://tutorialedge.net/golang/parsing-json-with-golang/)
@@ -51,6 +52,7 @@ I divided it into several stages and it includes some topics more than just back
     - [Consuming A RESTful API With Go](https://tutorialedge.net/golang/consuming-restful-api-with-go/)
     - [Basic HTTP Server](https://www.practical-go-lessons.com/chap-26-basic-http-server)
     - [Working With Environment Variables in Go](https://tutorialedge.net/golang/working-with-environment-variables-in-go/)
+    - [https://levelup.gitconnected.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189](https://levelup.gitconnected.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189)
   - Postgresql 
     - [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4) 4 hour long
     - [Using PostgreSQL with Go](https://www.calhoun.io/using-postgresql-with-go/) Recommended
@@ -61,7 +63,7 @@ I divided it into several stages and it includes some topics more than just back
       - [jwt introduction](https://jwt.io/introduction)
       - [Securing Your Go REST APIs With JWTs](https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/)
     
-### Stage 3 
+## Stage 3 
 (cool things go brrrr)
   - Introduction to Docker
     - [A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
@@ -78,8 +80,11 @@ I divided it into several stages and it includes some topics more than just back
     - [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
     - [Bash scripting cheatsheet](https://devhints.io/bash)
   - System Architucture & Microservice Concepts
+    - [A Reading List on Software Architecture](https://javascript.plainenglish.io/a-reading-list-on-software-architecture-108b33398fe8)
+    - [Design Patterns: Top 5 Techniques for Implementing Fault Tolerance in Distributed Systems](https://levelup.gitconnected.com/design-patterns-top-5-techniques-for-implementing-fault-tolerance-in-distributed-systems-81bef4408c3b)
+    - [Microservice Architecture — Communication & Design Patterns](https://blog.devgenius.io/microservice-architecture-communication-design-patterns-70b37beec294)
 
-### Stage 4
+## Stage 4
   - Golang
     - Profiling & benchmark & trace 
       - [Profiling Go Programs](https://go.dev/blog/pprof) Go blog
@@ -88,9 +93,26 @@ I divided it into several stages and it includes some topics more than just back
       - [How to write benchmarks in Go](https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go)
       - [An Introduction to Benchmarking Your Go Programs](https://tutorialedge.net/golang/benchmarking-your-go-programs/)
       - [An Introduction to go tool trace](https://tutorialedge.net/golang/benchmarking-your-go-programs/)
-  
+      - [How to Profile a Golang gRPC Server Using pprof](https://betterprogramming.pub/profiling-a-golang-grpc-server-using-pprof-b6de1371fdd)
   - gRPC & Protobuf
     - [Introduction to gRPC](https://grpc.io/docs/what-is-grpc/introduction/) official doc
     - [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
     - [Protobuf overview](https://developers.google.com/protocol-buffers/docs/overview) official doc
     - [Complete Guide to Protocol Buffers 3](https://www.udemy.com/course/protocol-buffers/)
+  - Intro to Kubernetes
+    - [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4&t=15s)
+    - [Kubernetes for the Absolute Beginners – Hands-on](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on/)
+  - Intro to Message Brokers
+    - [Kafka — Core Concepts & Terminologies](https://medium.com/swlh/kafka-core-concepts-terminologies-dafa40aa9489)
+    - [Visualizing Kafka](https://timothystepro.medium.com/visualizing-kafka-20bc384803e7)
+    - [Go-Kafka-Go](https://towardsdev.com/go-kafka-go-7547c38b4f09)
+ 
+ ## Stage 5
+  - [Beginner’s Guide to Load Testing with k6](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d)
+  - [Distributed Tracing Infrastructure with Jaeger on Kubernetes](https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677)
+  - [Using Envoy Proxy to Improve Reliability, Security, and Observability of Microservices](https://betterprogramming.pub/using-envoy-proxy-to-improve-reliability-security-and-observability-of-microservices-85032e08d3f4)
+
+## Useful Tech Blogs to Read
+  - [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+  - [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
+  - [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discord.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
