@@ -30,6 +30,7 @@ I divided it into several stages and it includes some topics more than just back
     - [Tour of Golang](https://tour.golang.org/) official intro
     - [Go by Examples](https://gobyexample.com/) good for refreshing
     - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
+    - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
   - [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) first three chapters 
   - Git 
     - [Atlassian tutorial](https://www.atlassian.com/git/tutorials)
@@ -76,5 +77,20 @@ I divided it into several stages and it includes some topics more than just back
   - Bash Scripting
     - [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
     - [Bash scripting cheatsheet](https://devhints.io/bash)
+  - System Architucture & Microservice Concepts
 
 ### Stage 4
+  - Golang
+    - Profiling & benchmark & trace 
+      - [Profiling Go Programs](https://go.dev/blog/pprof) Go blog
+      - [GopherCon 2019: Dave Cheney - Two Go Programs, Three Different Profiling Techniques](https://www.youtube.com/watch?v=nok0aYiGiYA)
+      - [Program Profiling](https://www.practical-go-lessons.com/chap-36-program-profiling)
+      - [How to write benchmarks in Go](https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go)
+      - [An Introduction to Benchmarking Your Go Programs](https://tutorialedge.net/golang/benchmarking-your-go-programs/)
+      - [An Introduction to go tool trace](https://tutorialedge.net/golang/benchmarking-your-go-programs/)
+  
+  - gRPC & Protobuf
+    - [Introduction to gRPC](https://grpc.io/docs/what-is-grpc/introduction/) official doc
+    - [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
+    - [Protobuf overview](https://developers.google.com/protocol-buffers/docs/overview) official doc
+    - [Complete Guide to Protocol Buffers 3](https://www.udemy.com/course/protocol-buffers/)
