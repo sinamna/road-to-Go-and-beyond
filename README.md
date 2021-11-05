@@ -67,7 +67,7 @@ I divided it into several stages including some topics more than just backend al
   - Introduction to Docker
     - [A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
     - [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo) ![Recommended](https://img.shields.io/badge/Recommended-success)
-    - [https://thenewstack.io/dockerize-go-applications/](https://thenewstack.io/dockerize-go-applications/)  
+    - [Dockerize Go Applications](https://thenewstack.io/dockerize-go-applications/)  
     - [A Deep Dive Into Container Technology for Beginners](https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1/)
   - Go concurrency design patterns
     -  [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) 4th chapter
