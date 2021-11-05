@@ -1,4 +1,4 @@
-# Go to Backend 
+# Roadmap to backend development based on Golang
 
 ### Introduction
 This is a roadmap i would take if i wanted to start over my learning path. It includes all things i considered important and stuff ina.
