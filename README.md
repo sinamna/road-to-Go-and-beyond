@@ -23,8 +23,7 @@ I divided it into several stages including some topics more than just backend al
     - Searching
       - [Train in hackerearth](https://www.hackerearth.com/) it has tutorials and question 
   - Basic knowledge of network
-    - Computer Networking: A Top-Down Approach - section 2.2: The web and http
-      - [Book's link](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf)
+    - [Computer Networking: A Top-Down Approach](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf) - section 2.2: The web and http
     - [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
 ## Stage 1
   - Golang basics
@@ -57,7 +56,7 @@ I divided it into several stages including some topics more than just backend al
     - [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4) 4 hour long
     - [Using PostgreSQL with Go](https://www.calhoun.io/using-postgresql-with-go/) ![Recommended](https://img.shields.io/badge/Recommended-success)
   - Design patterns
-    - (Go Design Patterns)[https://github.com/tmrts/go-patterns]
+    - [Go Design Patterns](https://github.com/tmrts/go-patterns)
   - Authentication 
     - jwt
       - [jwt introduction](https://jwt.io/introduction)
