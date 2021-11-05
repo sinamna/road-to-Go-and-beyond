@@ -1,8 +1,8 @@
 # Roadmap to backend development based on Golang
 
 ### Introduction
-This is a roadmap i would take if i wanted to start over my learning path. It includes all things i considered important and stuff ina.
-I divided it into several stages and it includes some topics more than just backend alone. Hope you enjoy. I'll try to keep it updated.
+This is a roadmap i would take if i wanted to start over my learning path. It includes all things i considered important and useful.
+I divided it into several stages including some topics more than just backend alone. Hope you enjoy. I'll try to keep it updated.
 
 ## Baby Steps
 
