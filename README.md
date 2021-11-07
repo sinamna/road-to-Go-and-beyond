@@ -110,6 +110,8 @@ I divided it into several stages including some topics more than just backend al
   - [Beginner’s Guide to Load Testing with k6](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d)
   - [Distributed Tracing Infrastructure with Jaeger on Kubernetes](https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677)
   - [Using Envoy Proxy to Improve Reliability, Security, and Observability of Microservices](https://betterprogramming.pub/using-envoy-proxy-to-improve-reliability-security-and-observability-of-microservices-85032e08d3f4)
+  - Monitoring 
+    - [PromQL tutorial for beginners and humans](https://valyala.medium.com/promql-tutorial-for-beginners-9ab455142085)
 
 ## Useful Tech Blogs to Read ![Recommended](https://img.shields.io/badge/Recommended-success)
   - [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
